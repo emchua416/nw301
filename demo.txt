@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is a branch file
+=======
+appending line on demo file
+>>>>>>> branch1
